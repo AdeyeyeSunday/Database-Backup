@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db payment_gateway_jobs > sql_dump/payment_gateway_jobs_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db admission_handover_notes > sql_dump/admission_handover_notes_.bat

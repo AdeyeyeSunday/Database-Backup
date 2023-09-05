@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db cpd_test_questions > sql_dump/cpd_test_questions_2023-08-29.bat

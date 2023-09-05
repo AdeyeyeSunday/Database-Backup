@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_tariffs > sql_dump/hmo_tariffs_2023-08-29.bat

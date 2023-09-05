@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db surgical_procedures > sql_dump/surgical_procedures_2023-08-29.bat

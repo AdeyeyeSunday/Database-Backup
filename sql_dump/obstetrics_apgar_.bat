@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db obstetrics_apgar > sql_dump/obstetrics_apgar_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db classifications > sql_dump/classifications_.bat

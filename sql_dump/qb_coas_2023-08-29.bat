@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db qb_coas > sql_dump/qb_coas_2023-08-29.bat

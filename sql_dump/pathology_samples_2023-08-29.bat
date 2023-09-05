@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db pathology_samples > sql_dump/pathology_samples_2023-08-29.bat

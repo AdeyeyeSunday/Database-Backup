@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db antenatal > sql_dump/antenatal_.bat

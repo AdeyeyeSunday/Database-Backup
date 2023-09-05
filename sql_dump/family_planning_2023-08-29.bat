@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db family_planning > sql_dump/family_planning_2023-08-29.bat

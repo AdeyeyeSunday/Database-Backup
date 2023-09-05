@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db inventory_deliveries > sql_dump/inventory_deliveries_.bat

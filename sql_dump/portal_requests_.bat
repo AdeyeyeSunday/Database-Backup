@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db portal_requests > sql_dump/portal_requests_.bat

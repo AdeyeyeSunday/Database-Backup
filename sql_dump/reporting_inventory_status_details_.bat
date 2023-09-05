@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db reporting_inventory_status_details > sql_dump/reporting_inventory_status_details_.bat

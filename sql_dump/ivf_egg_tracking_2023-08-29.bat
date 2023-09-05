@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_egg_tracking > sql_dump/ivf_egg_tracking_2023-08-29.bat

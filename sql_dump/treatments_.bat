@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db treatments > sql_dump/treatments_.bat

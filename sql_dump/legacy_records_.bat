@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db legacy_records > sql_dump/legacy_records_.bat

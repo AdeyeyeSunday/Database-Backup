@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_plans > sql_dump/hmo_plans_2023-08-29.bat

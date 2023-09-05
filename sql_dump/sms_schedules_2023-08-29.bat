@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sms_schedules > sql_dump/sms_schedules_2023-08-29.bat

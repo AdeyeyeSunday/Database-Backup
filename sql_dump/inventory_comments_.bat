@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db inventory_comments > sql_dump/inventory_comments_.bat

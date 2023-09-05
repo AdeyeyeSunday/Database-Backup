@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db favourite_links > sql_dump/favourite_links_.bat

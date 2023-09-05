@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sage_ar_payment_terms > sql_dump/sage_ar_payment_terms_2023-08-29.bat

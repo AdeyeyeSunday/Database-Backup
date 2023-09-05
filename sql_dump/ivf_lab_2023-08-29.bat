@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_lab > sql_dump/ivf_lab_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmos > sql_dump/hmos_2023-08-29.bat

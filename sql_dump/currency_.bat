@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db currency > sql_dump/currency_.bat

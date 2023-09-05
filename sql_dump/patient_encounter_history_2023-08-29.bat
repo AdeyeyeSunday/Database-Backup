@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db patient_encounter_history > sql_dump/patient_encounter_history_2023-08-29.bat

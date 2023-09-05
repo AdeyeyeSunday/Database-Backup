@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_users > sql_dump/oauth_users_.bat

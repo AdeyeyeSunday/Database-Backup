@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db test_classes > sql_dump/test_classes_.bat

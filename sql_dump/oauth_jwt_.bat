@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_jwt > sql_dump/oauth_jwt_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db notifications > sql_dump/notifications_2023-08-29.bat

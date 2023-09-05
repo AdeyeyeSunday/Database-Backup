@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sync_log_data > sql_dump/sync_log_data_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db states > sql_dump/states_2023-08-29.bat

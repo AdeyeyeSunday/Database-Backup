@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db package_templates > sql_dump/package_templates_.bat

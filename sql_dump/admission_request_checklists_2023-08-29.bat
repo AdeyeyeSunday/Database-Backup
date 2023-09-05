@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db admission_request_checklists > sql_dump/admission_request_checklists_2023-08-29.bat

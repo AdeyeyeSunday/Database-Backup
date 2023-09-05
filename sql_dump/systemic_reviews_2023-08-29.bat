@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db systemic_reviews > sql_dump/systemic_reviews_2023-08-29.bat

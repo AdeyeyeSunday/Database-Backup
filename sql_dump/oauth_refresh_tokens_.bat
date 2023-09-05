@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_refresh_tokens > sql_dump/oauth_refresh_tokens_.bat

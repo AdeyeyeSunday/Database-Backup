@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db session_favorites > sql_dump/session_favorites_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db stg_conditions > sql_dump/stg_conditions_2023-08-29.bat

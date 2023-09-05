@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db tags > sql_dump/tags_.bat

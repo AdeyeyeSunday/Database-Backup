@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db stg_sections > sql_dump/stg_sections_.bat

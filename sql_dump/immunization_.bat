@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db immunization > sql_dump/immunization_.bat

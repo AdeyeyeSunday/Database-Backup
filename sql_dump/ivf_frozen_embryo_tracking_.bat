@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_frozen_embryo_tracking > sql_dump/ivf_frozen_embryo_tracking_.bat

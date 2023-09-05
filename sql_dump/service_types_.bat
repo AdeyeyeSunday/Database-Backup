@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db service_types > sql_dump/service_types_.bat

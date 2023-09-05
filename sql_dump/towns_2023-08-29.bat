@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db towns > sql_dump/towns_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db bodymap_symptom_sign > sql_dump/bodymap_symptom_sign_2023-08-29.bat

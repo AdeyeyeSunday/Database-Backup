@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db admission_orders > sql_dump/admission_orders_2023-08-29.bat

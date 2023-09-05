@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db inventory_barcode_outwards > sql_dump/inventory_barcode_outwards_.bat

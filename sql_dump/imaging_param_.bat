@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_param > sql_dump/imaging_param_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db inventory_purchase_orders > sql_dump/inventory_purchase_orders_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_report_templates > sql_dump/imaging_report_templates_.bat

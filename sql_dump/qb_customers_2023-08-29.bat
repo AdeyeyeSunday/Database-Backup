@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db qb_customers > sql_dump/qb_customers_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db consultants > sql_dump/consultants_2023-08-29.bat

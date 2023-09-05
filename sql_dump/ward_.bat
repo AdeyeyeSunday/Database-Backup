@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ward > sql_dump/ward_.bat

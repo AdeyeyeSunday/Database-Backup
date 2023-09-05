@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db other_investigations > sql_dump/other_investigations_.bat

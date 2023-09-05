@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db gp_templates > sql_dump/gp_templates_2023-08-29.bat

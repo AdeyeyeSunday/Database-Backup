@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db obstetrics_assessment > sql_dump/obstetrics_assessment_2023-08-29.bat

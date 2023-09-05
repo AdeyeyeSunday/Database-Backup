@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db supp_trans > sql_dump/supp_trans_2023-08-29.bat

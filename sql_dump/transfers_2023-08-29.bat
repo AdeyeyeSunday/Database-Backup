@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db transfers > sql_dump/transfers_2023-08-29.bat

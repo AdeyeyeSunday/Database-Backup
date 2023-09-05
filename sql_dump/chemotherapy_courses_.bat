@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db chemotherapy_courses > sql_dump/chemotherapy_courses_.bat

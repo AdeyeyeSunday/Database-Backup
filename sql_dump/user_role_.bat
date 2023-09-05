@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db user_role > sql_dump/user_role_.bat

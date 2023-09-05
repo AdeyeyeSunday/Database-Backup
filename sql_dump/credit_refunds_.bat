@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db credit_refunds > sql_dump/credit_refunds_.bat

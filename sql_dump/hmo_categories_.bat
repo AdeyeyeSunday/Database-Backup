@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_categories > sql_dump/hmo_categories_.bat

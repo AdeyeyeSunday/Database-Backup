@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_egg_retrieval > sql_dump/ivf_egg_retrieval_.bat

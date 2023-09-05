@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_classes > sql_dump/imaging_classes_.bat

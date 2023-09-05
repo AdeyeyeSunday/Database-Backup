@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_results > sql_dump/imaging_results_2023-08-29.bat

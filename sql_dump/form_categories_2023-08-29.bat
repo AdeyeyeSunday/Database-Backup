@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db form_categories > sql_dump/form_categories_2023-08-29.bat

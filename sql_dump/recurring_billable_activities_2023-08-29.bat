@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db recurring_billable_activities > sql_dump/recurring_billable_activities_2023-08-29.bat

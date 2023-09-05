@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db test_request_radio > sql_dump/test_request_radio_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db spam > sql_dump/spam_2023-08-29.bat

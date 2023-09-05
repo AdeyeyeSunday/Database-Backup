@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db spam > sql_dump/spam_.bat

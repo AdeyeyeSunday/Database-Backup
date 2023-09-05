@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db local_government > sql_dump/local_government_.bat

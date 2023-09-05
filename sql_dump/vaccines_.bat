@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db vaccines > sql_dump/vaccines_.bat

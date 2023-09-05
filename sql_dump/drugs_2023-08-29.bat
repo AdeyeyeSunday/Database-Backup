@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db drugs > sql_dump/drugs_2023-08-29.bat

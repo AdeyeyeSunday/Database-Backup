@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sage_ar_tax_groups > sql_dump/sage_ar_tax_groups_.bat

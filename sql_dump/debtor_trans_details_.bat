@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db debtor_trans_details > sql_dump/debtor_trans_details_.bat

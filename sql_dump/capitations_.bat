@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db capitations > sql_dump/capitations_.bat

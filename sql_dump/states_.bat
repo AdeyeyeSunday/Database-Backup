@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db states > sql_dump/states_.bat

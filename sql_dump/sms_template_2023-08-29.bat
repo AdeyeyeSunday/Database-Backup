@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sms_template > sql_dump/sms_template_2023-08-29.bat

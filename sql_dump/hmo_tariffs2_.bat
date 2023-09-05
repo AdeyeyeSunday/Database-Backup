@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_tariffs2 > sql_dump/hmo_tariffs2_.bat

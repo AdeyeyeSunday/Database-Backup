@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_grade_steps > sql_dump/hrm_grade_steps_2023-08-29.bat

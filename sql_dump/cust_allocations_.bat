@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db cust_allocations > sql_dump/cust_allocations_.bat

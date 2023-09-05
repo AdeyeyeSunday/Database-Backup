@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db dialysis_information > sql_dump/dialysis_information_.bat

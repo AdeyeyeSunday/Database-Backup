@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db visits > sql_dump/visits_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db paydirect_payment_notifications > sql_dump/paydirect_payment_notifications_.bat

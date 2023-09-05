@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db audit_logs > sql_dump/audit_logs_.bat

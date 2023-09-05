@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_ovarian_stimulation > sql_dump/ivf_ovarian_stimulation_.bat

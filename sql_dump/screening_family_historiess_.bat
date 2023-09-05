@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db screening_family_historiess > sql_dump/screening_family_historiess_.bat

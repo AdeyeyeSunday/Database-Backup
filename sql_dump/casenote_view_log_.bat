@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db casenote_view_log > sql_dump/casenote_view_log_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sage_ar_billing_cycles > sql_dump/sage_ar_billing_cycles_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db currency > sql_dump/currency_2023-08-29.bat

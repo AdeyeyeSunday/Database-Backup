@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_duty_roasters > sql_dump/hrm_duty_roasters_.bat

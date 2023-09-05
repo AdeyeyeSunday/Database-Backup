@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db antenatal_questions > sql_dump/antenatal_questions_2023-08-29.bat

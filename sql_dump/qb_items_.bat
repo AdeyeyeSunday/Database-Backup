@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db qb_items > sql_dump/qb_items_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_authorization_codes > sql_dump/oauth_authorization_codes_2023-08-29.bat

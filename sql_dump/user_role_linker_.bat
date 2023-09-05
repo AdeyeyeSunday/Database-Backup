@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db user_role_linker > sql_dump/user_role_linker_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db suppliers > sql_dump/suppliers_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db screening_examination_items > sql_dump/screening_examination_items_.bat

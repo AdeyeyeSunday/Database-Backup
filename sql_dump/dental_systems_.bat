@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db dental_systems > sql_dump/dental_systems_.bat

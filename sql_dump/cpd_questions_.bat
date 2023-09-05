@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db cpd_questions > sql_dump/cpd_questions_.bat

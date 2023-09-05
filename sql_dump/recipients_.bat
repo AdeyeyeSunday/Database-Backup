@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db recipients > sql_dump/recipients_.bat

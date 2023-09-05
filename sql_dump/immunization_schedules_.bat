@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db immunization_schedules > sql_dump/immunization_schedules_.bat

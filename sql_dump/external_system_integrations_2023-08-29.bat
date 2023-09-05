@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db external_system_integrations > sql_dump/external_system_integrations_2023-08-29.bat

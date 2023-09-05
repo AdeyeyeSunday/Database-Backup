@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db nutritional_status > sql_dump/nutritional_status_2023-08-29.bat

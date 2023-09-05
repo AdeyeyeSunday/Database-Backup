@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_result_categories > sql_dump/imaging_result_categories_2023-08-29.bat

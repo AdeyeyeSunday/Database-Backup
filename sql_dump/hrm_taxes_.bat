@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_taxes > sql_dump/hrm_taxes_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db admission_details > sql_dump/admission_details_.bat

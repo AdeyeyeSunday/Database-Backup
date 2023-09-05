@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db units_of_measure > sql_dump/units_of_measure_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db receipts > sql_dump/receipts_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db active_otp > sql_dump/active_otp_.bat

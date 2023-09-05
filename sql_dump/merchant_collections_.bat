@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db merchant_collections > sql_dump/merchant_collections_.bat

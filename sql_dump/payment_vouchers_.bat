@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db payment_vouchers > sql_dump/payment_vouchers_.bat

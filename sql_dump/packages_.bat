@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db packages > sql_dump/packages_.bat

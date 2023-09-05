@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db post_operative_orders > sql_dump/post_operative_orders_.bat

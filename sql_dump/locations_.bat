@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db locations > sql_dump/locations_.bat

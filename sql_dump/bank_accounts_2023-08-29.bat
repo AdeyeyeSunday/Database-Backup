@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db bank_accounts > sql_dump/bank_accounts_2023-08-29.bat

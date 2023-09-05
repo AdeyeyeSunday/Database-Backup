@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db patient_alerts > sql_dump/patient_alerts_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sponsor_invoices > sql_dump/sponsor_invoices_.bat

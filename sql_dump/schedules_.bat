@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db schedules > sql_dump/schedules_.bat

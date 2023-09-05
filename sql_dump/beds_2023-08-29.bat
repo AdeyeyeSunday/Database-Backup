@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db beds > sql_dump/beds_2023-08-29.bat

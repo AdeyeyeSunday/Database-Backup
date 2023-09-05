@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db imaging_sections > sql_dump/imaging_sections_.bat

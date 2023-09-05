@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_scopes > sql_dump/oauth_scopes_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_auth_codes > sql_dump/einsure_auth_codes_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_exceptions > sql_dump/hmo_exceptions_.bat

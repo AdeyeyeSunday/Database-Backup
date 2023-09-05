@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db surgical_procedures > sql_dump/surgical_procedures_.bat

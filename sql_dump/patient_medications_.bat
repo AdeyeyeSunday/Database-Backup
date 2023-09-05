@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db patient_medications > sql_dump/patient_medications_.bat

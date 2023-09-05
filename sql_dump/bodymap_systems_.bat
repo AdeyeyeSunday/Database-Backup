@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db bodymap_systems > sql_dump/bodymap_systems_.bat

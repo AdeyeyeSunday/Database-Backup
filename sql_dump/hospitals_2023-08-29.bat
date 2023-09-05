@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hospitals > sql_dump/hospitals_2023-08-29.bat

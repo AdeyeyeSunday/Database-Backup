@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db immunization > sql_dump/immunization_2023-08-29.bat

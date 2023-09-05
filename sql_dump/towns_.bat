@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db towns > sql_dump/towns_.bat

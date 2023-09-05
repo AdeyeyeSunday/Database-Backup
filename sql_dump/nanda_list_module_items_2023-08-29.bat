@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db nanda_list_module_items > sql_dump/nanda_list_module_items_2023-08-29.bat

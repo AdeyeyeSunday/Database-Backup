@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db dialysis_records > sql_dump/dialysis_records_2023-08-29.bat

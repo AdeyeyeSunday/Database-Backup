@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmos > sql_dump/hmos_.bat

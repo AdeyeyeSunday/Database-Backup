@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sms_trans > sql_dump/sms_trans_.bat

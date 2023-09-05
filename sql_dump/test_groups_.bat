@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db test_groups > sql_dump/test_groups_.bat

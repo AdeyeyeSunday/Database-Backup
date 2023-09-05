@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db refs > sql_dump/refs_.bat

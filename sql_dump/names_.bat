@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db names > sql_dump/names_.bat

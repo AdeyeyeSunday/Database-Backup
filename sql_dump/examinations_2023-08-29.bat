@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db examinations > sql_dump/examinations_2023-08-29.bat

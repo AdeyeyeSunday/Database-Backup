@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db system_settings > sql_dump/system_settings_2023-08-29.bat

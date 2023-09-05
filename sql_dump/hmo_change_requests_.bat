@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_change_requests > sql_dump/hmo_change_requests_.bat

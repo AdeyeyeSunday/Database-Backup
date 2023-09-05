@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_payroll > sql_dump/hrm_payroll_2023-08-29.bat

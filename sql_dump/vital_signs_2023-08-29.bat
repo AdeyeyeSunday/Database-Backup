@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db vital_signs > sql_dump/vital_signs_2023-08-29.bat

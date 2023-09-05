@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db comments > sql_dump/comments_2023-08-29.bat

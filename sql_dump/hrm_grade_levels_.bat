@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_grade_levels > sql_dump/hrm_grade_levels_.bat

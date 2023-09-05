@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db followup > sql_dump/followup_2023-08-29.bat

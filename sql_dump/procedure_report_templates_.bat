@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db procedure_report_templates > sql_dump/procedure_report_templates_.bat

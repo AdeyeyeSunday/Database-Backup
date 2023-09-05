@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_check_ins > sql_dump/einsure_check_ins_.bat

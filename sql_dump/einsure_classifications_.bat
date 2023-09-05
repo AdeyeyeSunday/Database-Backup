@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_classifications > sql_dump/einsure_classifications_.bat

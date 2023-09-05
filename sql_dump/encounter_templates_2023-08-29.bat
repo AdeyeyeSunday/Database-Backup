@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db encounter_templates > sql_dump/encounter_templates_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db wallet_trans > sql_dump/wallet_trans_2023-08-29.bat

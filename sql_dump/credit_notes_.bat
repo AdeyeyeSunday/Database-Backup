@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db credit_notes > sql_dump/credit_notes_.bat

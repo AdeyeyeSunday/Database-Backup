@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db inventory_categories > sql_dump/inventory_categories_2023-08-29.bat

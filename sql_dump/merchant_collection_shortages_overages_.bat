@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db merchant_collection_shortages_overages > sql_dump/merchant_collection_shortages_overages_.bat

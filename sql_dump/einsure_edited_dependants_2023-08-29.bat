@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_edited_dependants > sql_dump/einsure_edited_dependants_2023-08-29.bat

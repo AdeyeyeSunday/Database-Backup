@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db test_request_chemlabor > sql_dump/test_request_chemlabor_.bat

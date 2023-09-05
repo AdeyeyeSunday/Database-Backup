@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db symptoms_signs > sql_dump/symptoms_signs_.bat

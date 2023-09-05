@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db future_appointments > sql_dump/future_appointments_.bat

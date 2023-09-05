@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db service_requests > sql_dump/service_requests_.bat

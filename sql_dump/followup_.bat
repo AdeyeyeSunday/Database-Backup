@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db followup > sql_dump/followup_.bat

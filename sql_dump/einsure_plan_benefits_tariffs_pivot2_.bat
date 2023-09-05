@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_plan_benefits_tariffs_pivot2 > sql_dump/einsure_plan_benefits_tariffs_pivot2_.bat

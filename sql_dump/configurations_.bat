@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db configurations > sql_dump/configurations_.bat

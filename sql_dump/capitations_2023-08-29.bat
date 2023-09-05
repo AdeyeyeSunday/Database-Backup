@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db capitations > sql_dump/capitations_2023-08-29.bat

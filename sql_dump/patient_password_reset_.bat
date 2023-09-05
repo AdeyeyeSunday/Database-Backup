@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db patient_password_reset > sql_dump/patient_password_reset_.bat

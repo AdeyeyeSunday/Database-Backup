@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db screening_sectionlist_questions > sql_dump/screening_sectionlist_questions_2023-08-29.bat

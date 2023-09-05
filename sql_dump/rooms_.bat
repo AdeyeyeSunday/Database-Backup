@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db rooms > sql_dump/rooms_.bat

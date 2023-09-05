@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db http_sessions > sql_dump/http_sessions_2023-08-29.bat

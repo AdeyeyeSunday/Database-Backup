@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db idsr > sql_dump/idsr_.bat

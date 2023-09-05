@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db patient_types > sql_dump/patient_types_2023-08-29.bat

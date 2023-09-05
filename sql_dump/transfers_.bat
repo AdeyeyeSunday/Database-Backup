@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db transfers > sql_dump/transfers_.bat

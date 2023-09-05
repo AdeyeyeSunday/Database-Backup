@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db movement_ranges > sql_dump/movement_ranges_2023-08-29.bat

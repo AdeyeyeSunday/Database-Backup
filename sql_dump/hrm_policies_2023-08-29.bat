@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_policies > sql_dump/hrm_policies_2023-08-29.bat

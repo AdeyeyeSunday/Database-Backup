@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_frozen_embryo > sql_dump/ivf_frozen_embryo_2023-08-29.bat

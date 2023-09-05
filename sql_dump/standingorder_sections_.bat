@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db standingorder_sections > sql_dump/standingorder_sections_.bat

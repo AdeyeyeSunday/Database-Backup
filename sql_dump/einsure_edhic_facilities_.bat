@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_edhic_facilities > sql_dump/einsure_edhic_facilities_.bat

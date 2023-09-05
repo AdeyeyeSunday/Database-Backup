@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db standingorder_lists > sql_dump/standingorder_lists_2023-08-29.bat

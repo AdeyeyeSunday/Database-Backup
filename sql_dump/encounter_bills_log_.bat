@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db encounter_bills_log > sql_dump/encounter_bills_log_.bat

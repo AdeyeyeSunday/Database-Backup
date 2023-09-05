@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db supp_invoice_items > sql_dump/supp_invoice_items_2023-08-29.bat

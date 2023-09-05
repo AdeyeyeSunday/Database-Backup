@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db einsure_tariff_items > sql_dump/einsure_tariff_items_2023-08-29.bat

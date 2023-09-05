@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db country > sql_dump/country_.bat

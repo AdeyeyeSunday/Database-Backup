@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db bill_of_materials > sql_dump/bill_of_materials_2023-08-29.bat

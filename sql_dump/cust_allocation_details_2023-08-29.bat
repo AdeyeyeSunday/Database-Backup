@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db cust_allocation_details > sql_dump/cust_allocation_details_2023-08-29.bat

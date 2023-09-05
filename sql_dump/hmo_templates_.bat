@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_templates > sql_dump/hmo_templates_.bat

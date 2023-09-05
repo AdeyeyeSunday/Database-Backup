@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db chemotherapy_educations > sql_dump/chemotherapy_educations_2023-08-29.bat

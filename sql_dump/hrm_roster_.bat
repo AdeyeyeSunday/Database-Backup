@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_roster > sql_dump/hrm_roster_.bat

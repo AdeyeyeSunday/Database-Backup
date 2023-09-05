@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db chart_types > sql_dump/chart_types_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_leaves > sql_dump/hrm_leaves_2023-08-29.bat

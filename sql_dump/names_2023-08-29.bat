@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db names > sql_dump/names_2023-08-29.bat

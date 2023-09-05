@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db procedure_chapters > sql_dump/procedure_chapters_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db claims_users > sql_dump/claims_users_2023-08-29.bat

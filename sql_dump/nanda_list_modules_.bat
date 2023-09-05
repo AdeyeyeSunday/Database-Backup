@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db nanda_list_modules > sql_dump/nanda_list_modules_.bat

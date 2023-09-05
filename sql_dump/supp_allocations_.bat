@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db supp_allocations > sql_dump/supp_allocations_.bat

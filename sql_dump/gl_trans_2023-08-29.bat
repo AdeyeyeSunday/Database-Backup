@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db gl_trans > sql_dump/gl_trans_2023-08-29.bat

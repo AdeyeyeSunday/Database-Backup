@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sales_pos > sql_dump/sales_pos_2023-08-29.bat

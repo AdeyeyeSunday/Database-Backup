@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db quotations > sql_dump/quotations_.bat

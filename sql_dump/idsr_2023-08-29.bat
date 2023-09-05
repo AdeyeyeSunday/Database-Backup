@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db idsr > sql_dump/idsr_2023-08-29.bat

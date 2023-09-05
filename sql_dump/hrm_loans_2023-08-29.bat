@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_loans > sql_dump/hrm_loans_2023-08-29.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db sage_ar_interest_profiles > sql_dump/sage_ar_interest_profiles_2023-08-29.bat

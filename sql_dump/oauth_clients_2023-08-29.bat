@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db oauth_clients > sql_dump/oauth_clients_2023-08-29.bat

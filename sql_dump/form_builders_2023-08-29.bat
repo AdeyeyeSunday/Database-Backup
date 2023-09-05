@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db form_builders > sql_dump/form_builders_2023-08-29.bat

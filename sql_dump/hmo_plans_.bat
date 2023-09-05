@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hmo_plans > sql_dump/hmo_plans_.bat

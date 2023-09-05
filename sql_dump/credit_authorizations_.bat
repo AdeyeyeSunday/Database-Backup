@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db credit_authorizations > sql_dump/credit_authorizations_.bat

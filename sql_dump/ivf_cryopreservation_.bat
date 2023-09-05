@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db ivf_cryopreservation > sql_dump/ivf_cryopreservation_.bat

@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db opd_session_drugs > sql_dump/opd_session_drugs_.bat

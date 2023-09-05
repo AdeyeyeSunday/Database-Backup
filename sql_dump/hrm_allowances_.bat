@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db hrm_allowances > sql_dump/hrm_allowances_.bat

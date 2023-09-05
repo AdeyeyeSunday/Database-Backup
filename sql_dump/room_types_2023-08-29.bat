@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db room_types > sql_dump/room_types_2023-08-29.bat

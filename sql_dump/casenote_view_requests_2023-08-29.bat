@@ -1,0 +1,1 @@
+mysqldump -u root -p eclinic_db casenote_view_requests > sql_dump/casenote_view_requests_2023-08-29.bat
